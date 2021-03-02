@@ -1,5 +1,5 @@
 # Installing Docker
-## Partner Evan
+## Partner Evan Fiordeliso
 ### Installation Process
 I installed docker from the website https://www.docker.com/ . 
 Since I am on a windows computer I had to install WSL for docker to work. A problem that I ran into was I had to change my system information to allow
