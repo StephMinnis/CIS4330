@@ -1,4 +1,4 @@
-# BackingS ervices
+# Backing Services
 ## Partner Evan Fiordeliso
 Microservices should be stateless and they should own their own data. 
 They maintain this persistent state with use of backing services. For example, Microsoft Azure SQL Database, MySQL,
