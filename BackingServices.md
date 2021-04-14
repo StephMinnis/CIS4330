@@ -12,4 +12,4 @@ resource like a locally hosted MySQL database with a third party service like Am
 configuration change. This also allows for hot swapping servers if there may be some problem with the currently running server. 
 All of these changes with the infrastructure would require zero code modifications as the abstraction allows the code 
 to work with any service of a similar type with just a small configuration change to specify the service.
-![Diagram](images/backingservices.png)
+![diagram](images/backingservices.png)
